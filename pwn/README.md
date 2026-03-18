@@ -12,9 +12,9 @@ Enter 'exit' if you want to exit.
 
 ## Spesifikasi Dockerfile
 - OS: Ubuntu 18.04
-- User: compfest17
+- User: compfest18
 - Container port: 4321
-- Working directory: /home/compfest17
+- Working directory: /home/compfest18
 - Gunakan container port sebagai listening port untuk `socat` atau program sejenis
 
 ## Spesifikasi docker-compose.yml
